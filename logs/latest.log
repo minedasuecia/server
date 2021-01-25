@@ -1,0 +1,414 @@
+[24jan2021 16:58:26.814] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 35.1.37, --fml.mcpVersion, 20201102.104115, --fml.mcVersion, 1.16.4, --fml.forgeGroup, net.minecraftforge, nogui]
+[24jan2021 16:58:26.832] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_281 by Oracle Corporation
+[24jan2021 16:58:29.708] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[24jan2021 16:58:29.892] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Guilherme/Downloads/mine1.16.4/server/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[24jan2021 16:58:37.969] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[24jan2021 16:58:38.095] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[24jan2021 16:59:13.278] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[24jan2021 16:59:13.381] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[24jan2021 16:59:13.401] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[24jan2021 16:59:14.663] [modloading-worker-3/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[24jan2021 16:59:14.782] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for titanium
+[24jan2021 16:59:15.479] [modloading-worker-1/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[24jan2021 16:59:15.511] [modloading-worker-1/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[24jan2021 16:59:15.524] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[24jan2021 16:59:15.911] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[24jan2021 16:59:16.173] [modloading-worker-3/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk_bucket`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[24jan2021 16:59:17.402] [modloading-worker-3/ERROR] [net.minecraft.util.Util/]: No data fixer registered for trident_entity
+[24jan2021 16:59:17.923] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 35.1.37, for MC 1.16.4 with MCP 20201102.104115
+[24jan2021 16:59:18.038] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v35.1.37 Initialized
+[24jan2021 16:59:21.334] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:tiny_tnt_primed
+[24jan2021 16:59:22.711] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:singularity
+[24jan2021 16:59:23.111] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:charged_quartz
+[24jan2021 16:59:23.853] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:growing_crystal
+[24jan2021 16:59:32.827] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for flame
+[24jan2021 16:59:33.062] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for robit
+[24jan2021 16:59:36.270] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\Guilherme\Downloads\mine1.16.4\server\config\enderchests.toml is not correct. Correcting
+[24jan2021 16:59:36.456] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\Guilherme\Downloads\mine1.16.4\server\config\simplyjetpacks-common.toml is not correct. Correcting
+[24jan2021 16:59:36.581] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common was corrected from null to SimpleCommentedConfig:{}
+[24jan2021 16:59:36.690] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.integration was corrected from null to SimpleCommentedConfig:{}
+[24jan2021 16:59:36.746] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.integration.enableIntegrationVanilla was corrected from null to true
+[24jan2021 16:59:36.848] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.integration.enableIntegrationImmersiveEngineering was corrected from null to true
+[24jan2021 16:59:37.192] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.integration.enableIntegrationMekanism was corrected from null to true
+[24jan2021 16:59:37.276] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.integration.enableIntegrationEnderIO was corrected from null to true
+[24jan2021 16:59:37.339] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.integration.enableIntegrationThermalExpansion was corrected from null to true
+[24jan2021 16:59:37.461] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.integration.enableIntegrationThermalDynamics was corrected from null to true
+[24jan2021 16:59:37.542] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.misc was corrected from null to SimpleCommentedConfig:{}
+[24jan2021 16:59:37.666] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key simplyjetpacks-common.misc.enableJoinAdvancements was corrected from null to true
+[24jan2021 16:59:38.213] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\Guilherme\Downloads\mine1.16.4\server\config\appliedenergistics2-common.toml is not correct. Correcting
+[24jan2021 16:59:38.576] [modloading-worker-3/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Common Setup Method registered.
+[24jan2021 16:59:39.201] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[24jan2021 16:59:39.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyjetpacks] Starting version check at https://raw.githubusercontent.com/Tomson124/SimplyJetpacks2/1.16.4/updates/update.json
+[24jan2021 16:59:39.425] [modloading-worker-2/INFO] [Mekanism/]: Version 10.0.17 initializing...
+[24jan2021 16:59:40.176] [modloading-worker-2/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[24jan2021 16:59:40.288] [modloading-worker-2/INFO] [Mekanism/]: Loading complete.
+[24jan2021 16:59:40.177] [modloading-worker-0/INFO] [AE2:C/]: Post Initialization ( started )
+[24jan2021 16:59:40.365] [modloading-worker-2/INFO] [Mekanism/]: Mod loaded.
+[24jan2021 16:59:40.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyjetpacks] Found status: OUTDATED Current: 1.16.4-2.6.6.0 Target: 2.6.6.0
+[24jan2021 16:59:40.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.4-forge/update.json
+[24jan2021 16:59:40.410] [modloading-worker-0/INFO] [AE2:C/]: Post Initialization ( ended after 253ms )
+[24jan2021 16:59:40.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Found status: UP_TO_DATE Current: 2.10.0 Target: null
+[24jan2021 16:59:40.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[24jan2021 16:59:41.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 35.1.37 Target: null
+[24jan2021 16:59:41.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
+[24jan2021 16:59:42.121] [main/WARN] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Mod 'mekanism' took 1.433 s to run a deferred task.
+[24jan2021 16:59:42.323] [modloading-worker-1/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Hello from Simply Jetpacks 2
+[24jan2021 16:59:42.389] [modloading-worker-1/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Got IMC [Hello!]
+[24jan2021 16:59:43.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: UP_TO_DATE Current: 1.1.6 Target: null
+[24jan2021 16:59:43.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Starting version check at https://raw.github.com/cofh/version/master/thermal/update.json
+[24jan2021 16:59:44.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Found status: UP_TO_DATE Current: 1.1.6 Target: null
+[24jan2021 16:59:44.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Starting version check at https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
+[24jan2021 16:59:44.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Found status: UP_TO_DATE Current: 1.16.4-1.1 Target: null
+[24jan2021 16:59:50.198] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24jan2021 17:00:00.180] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, duration] and [cofh, ignite, targets] with inputs: [0, -123, 123]
+[24jan2021 17:00:00.436] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, targets] and [cofh, ignite, duration] with inputs: [0123]
+[24jan2021 17:00:00.629] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invis, flag] and [cofh, invis, targets] with inputs: [true, false]
+[24jan2021 17:00:00.794] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invuln, flag] and [cofh, invuln, targets] with inputs: [true, false]
+[24jan2021 17:00:00.891] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24jan2021 17:00:00.910] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24jan2021 17:00:01.036] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24jan2021 17:00:01.135] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24jan2021 17:00:01.200] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24jan2021 17:00:01.266] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.4-35.1.37-universal.jar, YungsApi-1.16.4-Forge-2.jar, FallingTree-Forge-1.16.4-2.10.0.jar, BetterCaves-Forge-1.16.4-1.1.jar, forgemod_VoxelMap-1.10.14_for_1.16.4.jar, cofh_core-1.16.3-1.1.6.jar, thermal_foundation-1.16.3-1.1.6.jar, thermal_expansion-1.16.3-1.1.6.jar, thermal_cultivation-1.16.3-1.1.6.jar, industrial-foregoing-1.16.4-3.2.8.1-f2c848c.jar, titanium-1.16.4-3.2.5.jar, MekanismGenerators-1.16.4-10.0.17.444.jar, Mekanism-1.16.4-10.0.17.444.jar, appliedenergistics2-8.1.0.jar, enderchests-1.16-1.7.5.jar, shetiphiancore-1.16-3.8.4.jar, SimplyJetpacks2-1.16.4-2.6.6.0.jar
+[24jan2021 17:00:08.178] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorium as it's serializer returned null
+[24jan2021 17:00:08.200] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorite as it's serializer returned null
+[24jan2021 17:00:08.260] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tetrahedrite as it's serializer returned null
+[24jan2021 17:00:08.318] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/platinum as it's serializer returned null
+[24jan2021 17:00:08.368] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/aluminum as it's serializer returned null
+[24jan2021 17:00:08.407] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bitumen as it's serializer returned null
+[24jan2021 17:00:08.461] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe industrialforegoing:manual
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:86) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:08.501] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/peridot as it's serializer returned null
+[24jan2021 17:00:08.619] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/galena as it's serializer returned null
+[24jan2021 17:00:08.643] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tungsten as it's serializer returned null
+[24jan2021 17:00:08.782] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sodalite as it's serializer returned null
+[24jan2021 17:00:08.828] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ardite as it's serializer returned null
+[24jan2021 17:00:08.895] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/iridium as it's serializer returned null
+[24jan2021 17:00:08.956] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/jetpack_te5
+com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_te5'
+	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:08.977] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bauxite as it's serializer returned null
+[24jan2021 17:00:09.026] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/draconium as it's serializer returned null
+[24jan2021 17:00:09.050] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/cobalt as it's serializer returned null
+[24jan2021 17:00:09.084] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/armorplating_te5
+com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_te5'
+	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:09.130] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/arcane as it's serializer returned null
+[24jan2021 17:00:09.206] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/pyrite as it's serializer returned null
+[24jan2021 17:00:09.269] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sheldonite as it's serializer returned null
+[24jan2021 17:00:09.323] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te1
+com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_leadstone'
+	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:09.374] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te5
+com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_te5'
+	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:09.408] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te4
+com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_resonant'
+	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:09.436] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te3
+com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_reinforced'
+	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:09.455] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te2
+com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_hardened'
+	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:155) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture.postComplete(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_281]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_281]
+[24jan2021 17:00:09.493] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_fluid/oil as it's serializer returned null
+[24jan2021 17:00:09.551] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 58 recipes
+[24jan2021 17:00:13.313] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1005 advancements
+[24jan2021 17:00:20.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:pilot_goggles Expected: 1117 Got: 2175
+[24jan2021 17:00:20.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:leather_strap Expected: 1118 Got: 2176
+[24jan2021 17:00:20.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_potato Expected: 1119 Got: 2177
+[24jan2021 17:00:20.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:particle_none Expected: 1120 Got: 2178
+[24jan2021 17:00:20.689] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:particle_default Expected: 1121 Got: 2179
+[24jan2021 17:00:20.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:particle_smoke Expected: 1122 Got: 2180
+[24jan2021 17:00:20.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:particle_rainbow Expected: 1123 Got: 2181
+[24jan2021 17:00:20.971] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_creative Expected: 1124 Got: 2182
+[24jan2021 17:00:21.138] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_creative_armored Expected: 1125 Got: 2183
+[24jan2021 17:00:21.195] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_vanilla1 Expected: 1126 Got: 2184
+[24jan2021 17:00:21.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_vanilla2 Expected: 1127 Got: 2185
+[24jan2021 17:00:21.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_vanilla3 Expected: 1128 Got: 2186
+[24jan2021 17:00:21.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_vanilla4 Expected: 1129 Got: 2187
+[24jan2021 17:00:21.630] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla1 Expected: 1130 Got: 2188
+[24jan2021 17:00:21.696] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla1_armored Expected: 1131 Got: 2189
+[24jan2021 17:00:21.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla2 Expected: 1132 Got: 2190
+[24jan2021 17:00:21.962] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla2_armored Expected: 1133 Got: 2191
+[24jan2021 17:00:22.091] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla3 Expected: 1134 Got: 2192
+[24jan2021 17:00:22.147] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla3_armored Expected: 1135 Got: 2193
+[24jan2021 17:00:22.208] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla4 Expected: 1136 Got: 2194
+[24jan2021 17:00:22.290] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_vanilla4_armored Expected: 1137 Got: 2195
+[24jan2021 17:00:22.403] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_ie1 Expected: 1138 Got: 2196
+[24jan2021 17:00:22.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_ie2 Expected: 1139 Got: 2197
+[24jan2021 17:00:22.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_ie3 Expected: 1140 Got: 2198
+[24jan2021 17:00:22.668] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_ie1 Expected: 1141 Got: 2199
+[24jan2021 17:00:22.757] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_ie2 Expected: 1142 Got: 2200
+[24jan2021 17:00:22.896] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_ie3 Expected: 1143 Got: 2201
+[24jan2021 17:00:23.067] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_ie1 Expected: 1144 Got: 2202
+[24jan2021 17:00:23.176] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_ie1_armored Expected: 1145 Got: 2203
+[24jan2021 17:00:23.278] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_ie2 Expected: 1146 Got: 2204
+[24jan2021 17:00:23.392] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_ie2_armored Expected: 1147 Got: 2205
+[24jan2021 17:00:23.477] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_ie3 Expected: 1148 Got: 2206
+[24jan2021 17:00:23.629] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_ie3_armored Expected: 1149 Got: 2207
+[24jan2021 17:00:23.758] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_mek1 Expected: 1150 Got: 2208
+[24jan2021 17:00:23.966] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_mek2 Expected: 1151 Got: 2209
+[24jan2021 17:00:24.064] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_mek3 Expected: 1152 Got: 2210
+[24jan2021 17:00:24.102] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_mek4 Expected: 1153 Got: 2211
+[24jan2021 17:00:24.232] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_mek1 Expected: 1154 Got: 2212
+[24jan2021 17:00:24.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_mek2 Expected: 1155 Got: 2213
+[24jan2021 17:00:24.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_mek3 Expected: 1156 Got: 2214
+[24jan2021 17:00:24.567] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_mek4 Expected: 1157 Got: 2215
+[24jan2021 17:00:24.628] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek1 Expected: 1158 Got: 2216
+[24jan2021 17:00:24.666] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek1_armored Expected: 1159 Got: 2217
+[24jan2021 17:00:24.668] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek2 Expected: 1160 Got: 2218
+[24jan2021 17:00:24.768] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek2_armored Expected: 1161 Got: 2219
+[24jan2021 17:00:24.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek3 Expected: 1162 Got: 2220
+[24jan2021 17:00:24.871] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek3_armored Expected: 1163 Got: 2221
+[24jan2021 17:00:24.939] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek4 Expected: 1164 Got: 2222
+[24jan2021 17:00:25.042] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_mek4_armored Expected: 1165 Got: 2223
+[24jan2021 17:00:25.066] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:unit_cryotheum Expected: 1166 Got: 2224
+[24jan2021 17:00:25.139] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:unit_cryotheum_empty Expected: 1167 Got: 2225
+[24jan2021 17:00:25.171] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:unit_glowstone Expected: 1168 Got: 2226
+[24jan2021 17:00:25.201] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:unit_glowstone_empty Expected: 1169 Got: 2227
+[24jan2021 17:00:25.212] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_te1 Expected: 1170 Got: 2228
+[24jan2021 17:00:25.229] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_te2 Expected: 1171 Got: 2229
+[24jan2021 17:00:25.249] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_te3 Expected: 1172 Got: 2230
+[24jan2021 17:00:25.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_te4 Expected: 1173 Got: 2231
+[24jan2021 17:00:25.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:thruster_te5 Expected: 1174 Got: 2232
+[24jan2021 17:00:25.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_te1 Expected: 1175 Got: 2233
+[24jan2021 17:00:25.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_te2 Expected: 1176 Got: 2234
+[24jan2021 17:00:25.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_te3 Expected: 1177 Got: 2235
+[24jan2021 17:00:25.345] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:armorplating_te4 Expected: 1178 Got: 2236
+[24jan2021 17:00:32.180] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te1 Expected: 1179 Got: 2237
+[24jan2021 17:00:32.207] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te1_armored Expected: 1180 Got: 2238
+[24jan2021 17:00:32.239] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te2 Expected: 1181 Got: 2239
+[24jan2021 17:00:32.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te2_armored Expected: 1182 Got: 2240
+[24jan2021 17:00:32.342] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te3 Expected: 1183 Got: 2241
+[24jan2021 17:00:32.366] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te3_armored Expected: 1184 Got: 2242
+[24jan2021 17:00:32.381] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te4 Expected: 1185 Got: 2243
+[24jan2021 17:00:32.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te4_armored Expected: 1186 Got: 2244
+[24jan2021 17:00:32.450] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: simplyjetpacks:jetpack_te5 Expected: 1187 Got: 2245
+[24jan2021 17:00:32.462] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Enchantment: Object did not get ID it asked for. Name: simplyjetpacks:fuel_efficiency Expected: 38 Got: 39
+[24jan2021 17:00:37.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.4
+[24jan2021 17:00:37.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24jan2021 17:00:37.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24jan2021 17:00:37.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24jan2021 17:00:38.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24jan2021 17:00:38.251] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[24jan2021 17:00:44.948] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24jan2021 17:00:44.960] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24jan2021 17:00:44.968] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24jan2021 17:00:44.972] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24jan2021 17:00:48.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
