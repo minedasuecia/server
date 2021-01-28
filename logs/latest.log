@@ -1,74 +1,74 @@
-[26jan2021 16:25:04.944] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 35.1.37, --fml.mcpVersion, 20201102.104115, --fml.mcVersion, 1.16.4, --fml.forgeGroup, net.minecraftforge, nogui]
-[26jan2021 16:25:04.947] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_51 by Oracle Corporation
-[26jan2021 16:25:04.959] [main/WARN] [cpw.mods.modlauncher.SecureJarHandler/]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
-[26jan2021 16:25:05.261] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[26jan2021 16:25:05.309] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/thierre%20tries/Desktop/server%20nuvem/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
-[26jan2021 16:25:06.375] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
-[26jan2021 16:25:06.377] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[26jan2021 16:25:11.406] [main/INFO] [PluginManager/]: Scanning classes for titanium
-[26jan2021 16:25:11.416] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
-[26jan2021 16:25:11.416] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
-[26jan2021 16:25:11.730] [modloading-worker-3/INFO] [PluginManager/]: Scanning classes for industrialforegoing
-[26jan2021 16:25:11.734] [modloading-worker-5/INFO] [PluginManager/]: Scanning classes for titanium
-[26jan2021 16:25:11.974] [modloading-worker-5/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
-[26jan2021 16:25:11.975] [modloading-worker-5/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
-[26jan2021 16:25:11.976] [modloading-worker-5/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
-[26jan2021 16:25:11.989] [modloading-worker-5/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
-[26jan2021 16:25:12.002] [modloading-worker-3/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk_bucket`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[26jan2021 16:25:12.335] [modloading-worker-4/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 35.1.37, for MC 1.16.4 with MCP 20201102.104115
-[26jan2021 16:25:12.371] [modloading-worker-4/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v35.1.37 Initialized
-[26jan2021 16:25:12.529] [modloading-worker-3/ERROR] [net.minecraft.util.Util/]: No data fixer registered for trident_entity
-[26jan2021 16:25:13.164] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:tiny_tnt_primed
-[26jan2021 16:25:13.549] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:singularity
-[26jan2021 16:25:13.604] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:charged_quartz
-[26jan2021 16:25:13.787] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:growing_crystal
-[26jan2021 16:25:16.229] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for flame
-[26jan2021 16:25:16.229] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for robit
-[26jan2021 16:25:16.565] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\thierre tries\Desktop\server nuvem\config\enderchests.toml is not correct. Correcting
-[26jan2021 16:25:16.621] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\thierre tries\Desktop\server nuvem\config\appliedenergistics2-common.toml is not correct. Correcting
-[26jan2021 16:25:16.699] [modloading-worker-3/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Common Setup Method registered.
-[26jan2021 16:25:16.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyjetpacks] Starting version check at https://raw.githubusercontent.com/Tomson124/SimplyJetpacks2/1.16.4/updates/update.json
-[26jan2021 16:25:16.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyjetpacks] Found status: OUTDATED Current: 1.16.4-2.6.6.0 Target: 2.6.6.0
-[26jan2021 16:25:16.857] [modloading-worker-5/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
-[26jan2021 16:25:16.856] [modloading-worker-4/INFO] [Mekanism/]: Version 10.0.17 initializing...
-[26jan2021 16:25:16.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.4-forge/update.json
-[26jan2021 16:25:16.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Found status: UP_TO_DATE Current: 2.10.0 Target: null
-[26jan2021 16:25:16.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[26jan2021 16:25:16.978] [modloading-worker-2/INFO] [AE2:C/]: Post Initialization ( started )
-[26jan2021 16:25:17.021] [modloading-worker-4/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[26jan2021 16:25:17.023] [modloading-worker-2/INFO] [AE2:C/]: Post Initialization ( ended after 47ms )
-[26jan2021 16:25:17.025] [modloading-worker-4/INFO] [Mekanism/]: Loading complete.
-[26jan2021 16:25:17.044] [modloading-worker-4/INFO] [Mekanism/]: Mod loaded.
-[26jan2021 16:25:17.259] [modloading-worker-6/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Hello from Simply Jetpacks 2
-[26jan2021 16:25:17.278] [modloading-worker-6/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Got IMC [Hello!]
-[26jan2021 16:25:17.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 35.1.37 Target: null
-[26jan2021 16:25:17.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
-[26jan2021 16:25:17.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: UP_TO_DATE Current: 1.1.6 Target: null
-[26jan2021 16:25:17.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Starting version check at https://raw.github.com/cofh/version/master/thermal/update.json
-[26jan2021 16:25:17.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Found status: UP_TO_DATE Current: 1.1.6 Target: null
-[26jan2021 16:25:17.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Starting version check at https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
-[26jan2021 16:25:17.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Found status: UP_TO_DATE Current: 1.16.4-1.1 Target: null
-[26jan2021 16:25:18.616] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26jan2021 16:25:19.152] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, duration] and [cofh, ignite, targets] with inputs: [0, -123, 123]
-[26jan2021 16:25:19.175] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, targets] and [cofh, ignite, duration] with inputs: [0123]
-[26jan2021 16:25:19.194] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invis, flag] and [cofh, invis, targets] with inputs: [true, false]
-[26jan2021 16:25:19.227] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invuln, flag] and [cofh, invuln, targets] with inputs: [true, false]
-[26jan2021 16:25:19.241] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[26jan2021 16:25:19.249] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[26jan2021 16:25:19.261] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[26jan2021 16:25:19.262] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[26jan2021 16:25:19.263] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[26jan2021 16:25:19.269] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, industrial-foregoing-1.16.4-3.2.8.1-f2c848c.jar, enderchests-1.16-1.7.5.jar, YungsApi-1.16.4-Forge-2.jar, titanium-1.16.4-3.2.5.jar, SimplyJetpacks2-1.16.4-2.6.6.0.jar, MekanismGenerators-1.16.4-10.0.17.444.jar, FallingTree-Forge-1.16.4-2.10.0.jar, forgemod_VoxelMap-1.10.14_for_1.16.4.jar, Mekanism-1.16.4-10.0.17.444.jar, forge-1.16.4-35.1.37-universal.jar, cofh_core-1.16.3-1.1.6.jar, shetiphiancore-1.16-3.8.4.jar, thermal_foundation-1.16.3-1.1.6.jar, thermal_expansion-1.16.3-1.1.6.jar, BetterCaves-Forge-1.16.4-1.1.jar, thermal_cultivation-1.16.3-1.1.6.jar, appliedenergistics2-8.1.0.jar
-[26jan2021 16:25:21.660] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorium as it's serializer returned null
-[26jan2021 16:25:21.708] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorite as it's serializer returned null
-[26jan2021 16:25:21.761] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tetrahedrite as it's serializer returned null
-[26jan2021 16:25:21.825] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/platinum as it's serializer returned null
-[26jan2021 16:25:21.861] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/aluminum as it's serializer returned null
-[26jan2021 16:25:21.925] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bitumen as it's serializer returned null
-[26jan2021 16:25:21.958] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe industrialforegoing:manual
+[28jan2021 01:11:03.690] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 35.1.37, --fml.mcpVersion, 20201102.104115, --fml.mcVersion, 1.16.4, --fml.forgeGroup, net.minecraftforge, nogui]
+[28jan2021 01:11:03.690] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_51 by Oracle Corporation
+[28jan2021 01:11:03.706] [main/WARN] [cpw.mods.modlauncher.SecureJarHandler/]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[28jan2021 01:11:04.003] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[28jan2021 01:11:04.050] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/thierre%20tries/Desktop/server%20nuvem/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
+[28jan2021 01:11:05.065] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[28jan2021 01:11:05.065] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[28jan2021 01:11:10.361] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[28jan2021 01:11:10.371] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[28jan2021 01:11:10.377] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[28jan2021 01:11:10.686] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for titanium
+[28jan2021 01:11:10.686] [modloading-worker-2/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[28jan2021 01:11:10.712] [modloading-worker-1/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[28jan2021 01:11:10.747] [modloading-worker-1/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[28jan2021 01:11:10.748] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[28jan2021 01:11:10.841] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[28jan2021 01:11:10.869] [modloading-worker-2/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk_bucket`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[28jan2021 01:11:11.373] [modloading-worker-2/ERROR] [net.minecraft.util.Util/]: No data fixer registered for trident_entity
+[28jan2021 01:11:11.476] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 35.1.37, for MC 1.16.4 with MCP 20201102.104115
+[28jan2021 01:11:11.529] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v35.1.37 Initialized
+[28jan2021 01:11:12.426] [modloading-worker-6/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:tiny_tnt_primed
+[28jan2021 01:11:12.787] [modloading-worker-6/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:singularity
+[28jan2021 01:11:12.871] [modloading-worker-6/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:charged_quartz
+[28jan2021 01:11:13.105] [modloading-worker-6/ERROR] [net.minecraft.util.Util/]: No data fixer registered for appliedenergistics2:growing_crystal
+[28jan2021 01:11:15.112] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for flame
+[28jan2021 01:11:15.152] [main/ERROR] [net.minecraft.util.Util/]: No data fixer registered for robit
+[28jan2021 01:11:15.675] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\thierre tries\Desktop\server nuvem\config\enderchests.toml is not correct. Correcting
+[28jan2021 01:11:15.781] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\thierre tries\Desktop\server nuvem\config\appliedenergistics2-common.toml is not correct. Correcting
+[28jan2021 01:11:15.895] [modloading-worker-4/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Common Setup Method registered.
+[28jan2021 01:11:15.942] [modloading-worker-1/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[28jan2021 01:11:16.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyjetpacks] Starting version check at https://raw.githubusercontent.com/Tomson124/SimplyJetpacks2/1.16.4/updates/update.json
+[28jan2021 01:11:16.172] [modloading-worker-5/INFO] [AE2:C/]: Post Initialization ( started )
+[28jan2021 01:11:16.281] [modloading-worker-5/INFO] [AE2:C/]: Post Initialization ( ended after 110ms )
+[28jan2021 01:11:16.296] [modloading-worker-2/INFO] [Mekanism/]: Version 10.0.17 initializing...
+[28jan2021 01:11:16.431] [modloading-worker-2/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[28jan2021 01:11:16.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplyjetpacks] Found status: OUTDATED Current: 1.16.4-2.6.6.0 Target: 2.6.6.0
+[28jan2021 01:11:16.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.4-forge/update.json
+[28jan2021 01:11:16.464] [modloading-worker-2/INFO] [Mekanism/]: Loading complete.
+[28jan2021 01:11:16.466] [modloading-worker-2/INFO] [Mekanism/]: Mod loaded.
+[28jan2021 01:11:16.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [falling_tree] Found status: UP_TO_DATE Current: 2.10.0 Target: null
+[28jan2021 01:11:16.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[28jan2021 01:11:16.797] [modloading-worker-3/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Hello from Simply Jetpacks 2
+[28jan2021 01:11:16.848] [modloading-worker-3/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Got IMC [Hello!]
+[28jan2021 01:11:17.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 35.1.37 Target: null
+[28jan2021 01:11:17.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
+[28jan2021 01:11:17.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cofh_core] Found status: UP_TO_DATE Current: 1.1.6 Target: null
+[28jan2021 01:11:17.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Starting version check at https://raw.github.com/cofh/version/master/thermal/update.json
+[28jan2021 01:11:17.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thermal] Found status: UP_TO_DATE Current: 1.1.6 Target: null
+[28jan2021 01:11:17.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Starting version check at https://raw.githubusercontent.com/yungnickyoung/YUNGs-Better-Caves/1.16/versions.json
+[28jan2021 01:11:18.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bettercaves] Found status: UP_TO_DATE Current: 1.16.4-1.1 Target: null
+[28jan2021 01:11:19.045] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28jan2021 01:11:20.373] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, duration] and [cofh, ignite, targets] with inputs: [0, -123, 123]
+[28jan2021 01:11:20.471] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, ignite, targets] and [cofh, ignite, duration] with inputs: [0123]
+[28jan2021 01:11:20.492] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invis, flag] and [cofh, invis, targets] with inputs: [true, false]
+[28jan2021 01:11:20.508] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [cofh, invuln, flag] and [cofh, invuln, targets] with inputs: [true, false]
+[28jan2021 01:11:20.527] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28jan2021 01:11:20.530] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28jan2021 01:11:20.533] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28jan2021 01:11:20.534] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28jan2021 01:11:20.534] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28jan2021 01:11:20.539] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, industrial-foregoing-1.16.4-3.2.8.1-f2c848c.jar, enderchests-1.16-1.7.5.jar, YungsApi-1.16.4-Forge-2.jar, titanium-1.16.4-3.2.5.jar, SimplyJetpacks2-1.16.4-2.6.6.0.jar, MekanismGenerators-1.16.4-10.0.17.444.jar, FallingTree-Forge-1.16.4-2.10.0.jar, forgemod_VoxelMap-1.10.14_for_1.16.4.jar, Mekanism-1.16.4-10.0.17.444.jar, forge-1.16.4-35.1.37-universal.jar, cofh_core-1.16.3-1.1.6.jar, shetiphiancore-1.16-3.8.4.jar, thermal_foundation-1.16.3-1.1.6.jar, thermal_expansion-1.16.3-1.1.6.jar, BetterCaves-Forge-1.16.4-1.1.jar, thermal_cultivation-1.16.3-1.1.6.jar, appliedenergistics2-8.1.0.jar
+[28jan2021 01:11:21.918] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorium as it's serializer returned null
+[28jan2021 01:11:21.949] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorite as it's serializer returned null
+[28jan2021 01:11:21.968] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tetrahedrite as it's serializer returned null
+[28jan2021 01:11:21.992] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/platinum as it's serializer returned null
+[28jan2021 01:11:21.996] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/aluminum as it's serializer returned null
+[28jan2021 01:11:22.000] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bitumen as it's serializer returned null
+[28jan2021 01:11:22.011] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe industrialforegoing:manual
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:262) ~[?:?]
-	at net.minecraft.item.crafting.ShapedRecipe$$Lambda$7099/1142396438.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$$Lambda$7109/651978953.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
 	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:86) ~[?:?]
@@ -77,15 +77,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -96,16 +96,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.030] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/peridot as it's serializer returned null
-[26jan2021 16:25:22.092] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/galena as it's serializer returned null
-[26jan2021 16:25:22.148] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tungsten as it's serializer returned null
-[26jan2021 16:25:22.182] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sodalite as it's serializer returned null
-[26jan2021 16:25:22.200] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ardite as it's serializer returned null
-[26jan2021 16:25:22.203] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/iridium as it's serializer returned null
-[26jan2021 16:25:22.235] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/jetpack_te5
+[28jan2021 01:11:22.013] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/peridot as it's serializer returned null
+[28jan2021 01:11:22.039] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/galena as it's serializer returned null
+[28jan2021 01:11:22.042] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tungsten as it's serializer returned null
+[28jan2021 01:11:22.055] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sodalite as it's serializer returned null
+[28jan2021 01:11:22.058] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ardite as it's serializer returned null
+[28jan2021 01:11:22.067] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/iridium as it's serializer returned null
+[28jan2021 01:11:22.076] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/jetpack_te5
 com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_te5'
 	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
-	at net.minecraft.item.crafting.Ingredient$$Lambda$7097/936387495.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient$$Lambda$7107/1911243632.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -119,15 +119,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_t
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -138,13 +138,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_t
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.243] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bauxite as it's serializer returned null
-[26jan2021 16:25:22.286] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/draconium as it's serializer returned null
-[26jan2021 16:25:22.301] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/cobalt as it's serializer returned null
-[26jan2021 16:25:22.306] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/armorplating_te5
+[28jan2021 01:11:22.080] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bauxite as it's serializer returned null
+[28jan2021 01:11:22.093] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/draconium as it's serializer returned null
+[28jan2021 01:11:22.095] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/cobalt as it's serializer returned null
+[28jan2021 01:11:22.098] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/armorplating_te5
 com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_te5'
 	at net.minecraft.item.crafting.ShapedRecipe.lambda$deserializeItem$0(ShapedRecipe.java:262) ~[?:?]
-	at net.minecraft.item.crafting.ShapedRecipe$$Lambda$7099/1142396438.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$$Lambda$7109/651978953.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
 	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
@@ -153,15 +153,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_t
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -172,13 +172,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_t
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.381] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/arcane as it's serializer returned null
-[26jan2021 16:25:22.395] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/pyrite as it's serializer returned null
-[26jan2021 16:25:22.443] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sheldonite as it's serializer returned null
-[26jan2021 16:25:22.469] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te1
+[28jan2021 01:11:22.113] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/arcane as it's serializer returned null
+[28jan2021 01:11:22.159] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/pyrite as it's serializer returned null
+[28jan2021 01:11:22.175] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sheldonite as it's serializer returned null
+[28jan2021 01:11:22.239] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te1
 com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_leadstone'
 	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
-	at net.minecraft.item.crafting.Ingredient$$Lambda$7097/936387495.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient$$Lambda$7107/1911243632.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -192,15 +192,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_leadstone'
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -211,10 +211,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_leadstone'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.473] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te5
+[28jan2021 01:11:22.298] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te5
 com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_te5'
 	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
-	at net.minecraft.item.crafting.Ingredient$$Lambda$7097/936387495.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient$$Lambda$7107/1911243632.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -228,15 +228,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_t
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -247,10 +247,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'simplyjetpacks:armorplating_t
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.475] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te4
+[28jan2021 01:11:22.363] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te4
 com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_resonant'
 	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
-	at net.minecraft.item.crafting.Ingredient$$Lambda$7097/936387495.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient$$Lambda$7107/1911243632.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -264,15 +264,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_resonant'
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -283,10 +283,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_resonant'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.519] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te3
+[28jan2021 01:11:22.448] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te3
 com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_reinforced'
 	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
-	at net.minecraft.item.crafting.Ingredient$$Lambda$7097/936387495.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient$$Lambda$7107/1911243632.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -300,15 +300,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_reinforced'
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -319,10 +319,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_reinforced'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.595] [Worker-Main-6/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te2
+[28jan2021 01:11:22.453] [Worker-Main-10/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe simplyjetpacks:thermal/thruster_te2
 com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_hardened'
 	at net.minecraft.item.crafting.Ingredient.lambda$deserializeItemList$11(Ingredient.java:216) ~[?:?]
-	at net.minecraft.item.crafting.Ingredient$$Lambda$7097/936387495.get(Unknown Source) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient$$Lambda$7107/1911243632.get(Unknown Source) ~[?:?]
 	at java.util.Optional.orElseThrow(Unknown Source) ~[?:1.8.0_51]
 	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:41) ~[?:?]
@@ -336,15 +336,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_hardened'
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) [?:?]
 	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) [?:?]
 	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) [?:?]
-	at net.minecraft.client.resources.ReloadListener$$Lambda$7029/1366570584.accept(Unknown Source) [?:?]
+	at net.minecraft.client.resources.ReloadListener$$Lambda$7036/1559043100.accept(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) [?:1.8.0_51]
 	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7036/788225638.run(Unknown Source) [?:?]
-	at net.minecraft.server.Main$$Lambda$6330/1940701983.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7043/656611082.run(Unknown Source) [?:?]
+	at net.minecraft.server.Main$$Lambda$6337/416793289.execute(Unknown Source) [?:?]
 	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) [?:?]
-	at net.minecraft.resources.AsyncReloader$$Lambda$7022/612895524.execute(Unknown Source) [?:?]
+	at net.minecraft.resources.AsyncReloader$$Lambda$7029/934344849.execute(Unknown Source) [?:?]
 	at java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) [?:1.8.0_51]
@@ -355,38 +355,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:fluxduct_hardened'
 	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_51]
 	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_51]
-[26jan2021 16:25:22.642] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_fluid/oil as it's serializer returned null
-[26jan2021 16:25:22.682] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 58 recipes
-[26jan2021 16:25:23.460] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1005 advancements
-[26jan2021 16:25:24.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.4
-[26jan2021 16:25:24.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26jan2021 16:25:24.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26jan2021 16:25:24.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26jan2021 16:25:24.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 26.12.140.199:25565
-[26jan2021 16:25:25.004] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
-[26jan2021 16:25:25.980] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[26jan2021 16:25:25.981] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[26jan2021 16:25:25.982] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[26jan2021 16:25:25.983] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[26jan2021 16:25:26.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[26jan2021 16:25:26.393] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:overworld
-[26jan2021 16:25:26.402] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_nether
-[26jan2021 16:25:26.416] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_end
-[26jan2021 16:25:26.421] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension appliedenergistics2:spatial_storage
-[26jan2021 16:25:26.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26jan2021 16:25:27.184] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[26jan2021 16:25:27.184] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[26jan2021 16:25:27.574] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1149 ms
-[26jan2021 16:25:27.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.572s)! For help, type "help"
-[26jan2021 16:25:27.591] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server starting...
-[26jan2021 16:25:27.602] [Server thread/INFO] [enderchests/]: Loading EnderChest Data
-[26jan2021 16:25:27.603] [Server thread/INFO] [enderchests/]: Finished Loading EnderChest Data
-[26jan2021 16:26:10.003] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5169310a
-[26jan2021 16:26:10.025] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: hartty[/26.12.140.199:51450] logged in with entity id 153 at (-272.7301141606183, 80.0, -36.80859409010904)
-[26jan2021 16:26:10.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: hartty joined the game
-[26jan2021 16:26:10.162] [Server thread/WARN] [Mekanism/]: Failed to retrieve username for UUID b21db6c7-5599-3ee2-a4c0-2452b348ef8e, you might want to add it to the JSON cache
-[26jan2021 16:28:31.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: hartty has made the advancement [Sweet Dreams]
-[26jan2021 16:38:59.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: hartty has made the advancement [Shocking]
-[26jan2021 17:20:42.810] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ec07c6
-[26jan2021 17:53:49.811] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: hartty lost connection: Disconnected
-[26jan2021 17:53:49.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: hartty left the game
+[28jan2021 01:11:22.459] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_fluid/oil as it's serializer returned null
+[28jan2021 01:11:22.480] [Worker-Main-10/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 58 recipes
+[28jan2021 01:11:23.063] [Worker-Main-10/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1005 advancements
+[28jan2021 01:11:24.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.4
+[28jan2021 01:11:24.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28jan2021 01:11:24.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28jan2021 01:11:24.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28jan2021 01:11:24.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 26.12.140.199:25565
+[28jan2021 01:11:24.493] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[28jan2021 01:11:24.893] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28jan2021 01:11:24.895] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28jan2021 01:11:24.897] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28jan2021 01:11:24.897] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28jan2021 01:11:25.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28jan2021 01:11:25.177] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:overworld
+[28jan2021 01:11:25.203] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_nether
+[28jan2021 01:11:25.245] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension minecraft:the_end
+[28jan2021 01:11:25.273] [Server thread/INFO] [Mekanism ChunkManager/]: Loading 0 chunks for dimension appliedenergistics2:spatial_storage
+[28jan2021 01:11:25.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28jan2021 01:11:26.454] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28jan2021 01:11:26.455] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28jan2021 01:11:26.456] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28jan2021 01:11:26.838] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1558 ms
+[28jan2021 01:11:26.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.921s)! For help, type "help"
+[28jan2021 01:11:26.855] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server starting...
+[28jan2021 01:11:26.865] [Server thread/INFO] [enderchests/]: Loading EnderChest Data
+[28jan2021 01:11:26.866] [Server thread/INFO] [enderchests/]: Finished Loading EnderChest Data
+[28jan2021 01:12:08.021] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@44a57bab
+[28jan2021 01:12:08.045] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: hartty[/26.12.140.199:61765] logged in with entity id 138 at (-272.7984737115492, 80.0, -38.60543817999681)
+[28jan2021 01:12:08.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: hartty joined the game
+[28jan2021 01:12:08.201] [Server thread/WARN] [Mekanism/]: Failed to retrieve username for UUID b21db6c7-5599-3ee2-a4c0-2452b348ef8e, you might want to add it to the JSON cache
+[28jan2021 01:25:14.124] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: hartty lost connection: Disconnected
+[28jan2021 01:25:14.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: hartty left the game
